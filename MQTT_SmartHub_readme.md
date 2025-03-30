@@ -87,7 +87,7 @@ This project demonstrates a multi-sensor ESP32 setup that publishes data (temper
 
 This project is open-source under the MIT License. Feel free to modify and share.
 
-**Author**: _Your Name_  
+**Author**: M S Sabarinath
 **LinkedIn**: [Sabarinath M S](https://www.linkedin.com/in/sabarinathms/)  
 
 Happy hacking!
